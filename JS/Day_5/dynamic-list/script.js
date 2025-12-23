@@ -1,32 +1,30 @@
-addButton.addEventListener("click", function () {
-    // Get input value
-    const inputValue = input.value;
+const input = document.getElementById("itemInput");
+const addBtn = document.getElementById("addBtn");
+const list = document.getElementById("itemList");
 
-    // Prevent empty items
-    if (inputValue === "") {
-        alert("Please enter some text");
-        return;
-    }
+addBtn.addEventListener("click", function () {
+  const inputValue = input.value.trim();
 
-    // Create list item
-    const li = document.createElement("li");
+  if (inputValue === "") {
+    alert("Please enter some text");
+    return;
+  }
 
-    // Add text to li
-    li.textContent = inputValue;
+  const li = document.createElement("li");
+  li.textContent = inputValue;
 
-    // Create delete button
-    const deleteButton = document.createElement("button");
-    deleteButton.textContent = "Delete";
-    deleteButton.className = "delete-btn";
+  const deleteBtn = document.createElement("button");
+  deleteBtn.textContent = "Delete";
+  deleteBtn.className = "delete-btn";
 
-    deleteButton.addEventListener("click", function () {
-        list.removeChild(li);
-    });
+  deleteBtn.addEventListener("click", function () {
+    li.remove();
+  });
 
+  li.appendChild(deleteBtn);
+  li.appendChild(deleteBtn);
 
-    li.appendChild(deleteButton);
+  list.appendChild(li);
 
-    list.appendChild(li);
-
-    input.value = "";
+  input.value = "";
 });

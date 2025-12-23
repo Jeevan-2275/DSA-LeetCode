@@ -1,9 +1,9 @@
 // QUE.Maximum sum of subarray of size k
 // arr=[2,1,5,1,3,2], k=3
 
-// #include<iostream>
-// #include<vector>
-// using namespace std;
+#include<iostream>
+#include<vector>
+using namespace std;
 
 // int main(){
 //     vector<int> arr={2,1,5,1,3,2};

@@ -1,5 +1,9 @@
+#include <iostream>
+#include <string>
+#include <climits>
+using namespace std;
+
 class Solution {
-public:
     int beautySum(string s) {
        int n = s.size();
        int total =0;

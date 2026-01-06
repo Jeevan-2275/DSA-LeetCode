@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Countdown Timer</title>
+    <link rel="stylesheet" href="./timer.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <h1 class="app-title">Countdown Timer</h1>
+      <button id="themeToggle" class="icon-btn" aria-label="Toggle theme" title="Toggle theme (T)">
+        <span class="icon">🌙</span>
+      </button>
+    </header>
+
+    <main class="app">
+      <section class="display" aria-live="polite" aria-atomic="true">
+        <div id="timeDisplay" class="time">00:00</div>
+        <div class="progress-wrap" aria-hidden="true">
+          <div id="progressBar" class="progress"></div>
+        </div>
+      </section>
+
+      <section class="presets">
+        <button class="chip" data-min="1">1:00</button>
+        <button class="chip" data-min="5">5:00</button>
+        <button class="chip" data-min="30">30:00</button>
+        <div class="custom">
+          <label class="sr-only" for="minInput">Minutes</label>
+          <input id="minInput" type="number" min="0" max="599" inputmode="numeric" placeholder="MM" />
+          <span class="colon">:</span>
+          <label class="sr-only" for="secInput">Seconds</label>
+          <input id="secInput" type="number" min="0" max="59" inputmode="numeric" placeholder="SS" />
+          <button id="setCustom" class="btn ghost" title="Set custom time">Set</button>
+        </div>
+      </section>
+
+      <section class="controls">
+        <button id="startBtn" class="btn primary">Start</button>
+        <button id="pauseBtn" class="btn">Pause</button>
+        <button id="resumeBtn" class="btn">Resume</button>
+        <button id="resetBtn" class="btn danger">Reset</button>
+      </section>
+
+      <section class="help">
+        <p>
+          Shortcuts: Space = Start/Pause/Resume, R = Reset, T = Theme,
+          1 = 1m, 5 = 5m, 3 = 30m
+        </p>
+      </section>
+    </main>
+
+    <div id="flash" class="flash" aria-hidden="true"></div>
+
+    <script src="./timer.js" type="module"></script>
+  </body>
+  </html>

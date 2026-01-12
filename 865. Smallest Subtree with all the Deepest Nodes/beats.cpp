@@ -1,5 +1,12 @@
+#include <utility>
+using namespace std;
 
-
+struct TreeNode {
+    int val;
+    TreeNode* left;
+    TreeNode* right;
+    TreeNode(int x = 0) : val(x), left(nullptr), right(nullptr) {}
+};
 class Solution {
 public:
     pair<int, TreeNode*> dfs(TreeNode* root) {

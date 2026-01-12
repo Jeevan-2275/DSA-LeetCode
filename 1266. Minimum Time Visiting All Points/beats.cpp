@@ -1,3 +1,7 @@
+#include <vector>
+#include <cmath>
+using namespace std;
+
 class Solution {
 public:
     int minTimeToVisitAllPoints(vector<vector<int>>& points) {

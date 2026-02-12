@@ -1,6 +1,9 @@
+
+#include<iostream>
+using namespace std;
+
 class Solution {
 public:
-
 int expand(string& s,int l,int r){
     while(l>=0 && r < s.size() && s[l] == s[r] ){
         l--;

@@ -1,3 +1,8 @@
+#include<iostream>
+#include<vector>
+#include<string>
+using namespace std;
+
 class Solution {
 public:
     int countSetBits(int x) {
@@ -7,6 +12,7 @@ public:
             cnt++;class Solution {
 public:
     vector<string> readBinaryWatch(int turnedOn) {
+        
         if (turnedOn>=9) return {};
         array<vector<int>, 4> h;
         for (unsigned i=0; i<12; i++) {

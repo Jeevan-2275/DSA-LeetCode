@@ -176,3 +176,25 @@ Ensure clarity, correctness, and consistency.
 This project is licensed under the **MIT License**.
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+## Two Pointers
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+## Matrix
+|  |
+| ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+## Sorting
+|  |
+| ------- |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+<!---LeetCode Topics End-->

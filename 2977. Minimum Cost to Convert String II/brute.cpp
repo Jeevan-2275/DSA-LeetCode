@@ -1,8 +1,10 @@
 
 #include<iostream>
 #include<vector>
-
+#include<unordered_map>
+#include<unordered_set>
 using namespace std;
+
 class Solution {
 public:
     long long minimumCost(string source, string target,
@@ -12,7 +14,6 @@ public:
 
         const long long INF = (1LL<<60);
 
-        // 1) Give every unique pattern an id
         unordered_map<string,int> id;
         int idx = 0;
 

@@ -1,4 +1,7 @@
-// This solution was implemented with assistance from ChatGPT
+#include<iostream>
+#include<vector>
+using namespace std;
+
 class Solution {
 public:
     vector<vector<int>> constructProductMatrix(vector<vector<int>>& grid) {
@@ -21,7 +24,6 @@ public:
                 prefix = (prefix * (grid[i][j] % MOD)) % MOD;
             }
         }
-
         return p;
     }
 };

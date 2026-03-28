@@ -1,3 +1,6 @@
+#include<iostream>
+#include<vector>
+using namespace std;
 class Solution {
     bool isValid(vector<vector<int>>& g, int i, int j, int k) {
         int sum = 0;

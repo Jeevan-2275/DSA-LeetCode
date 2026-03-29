@@ -240,6 +240,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Greedy
 |  |
 | ------- |

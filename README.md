@@ -292,4 +292,20 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->

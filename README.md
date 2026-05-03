@@ -280,6 +280,7 @@ This project is licensed under the **MIT License**.
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -303,6 +304,7 @@ This project is licensed under the **MIT License**.
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Backtracking
 |  |

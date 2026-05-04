@@ -182,6 +182,7 @@ This project is licensed under the **MIT License**.
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0120-triangle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0120-triangle) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -216,6 +217,7 @@ This project is licensed under the **MIT License**.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -265,6 +267,7 @@ This project is licensed under the **MIT License**.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |

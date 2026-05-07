@@ -207,6 +207,7 @@ This project is licensed under the **MIT License**.
 | [3643-flip-square-submatrix-vertically](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3660-jump-game-ix) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
@@ -247,6 +248,7 @@ This project is licensed under the **MIT License**.
 | [0788-rotated-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0788-rotated-digits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [3660-jump-game-ix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3660-jump-game-ix) |
 ## Enumeration
 |  |
 | ------- |

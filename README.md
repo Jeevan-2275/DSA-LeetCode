@@ -189,6 +189,7 @@ This project is licensed under the **MIT License**.
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -265,6 +266,7 @@ This project is licensed under the **MIT License**.
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2615-sum-of-distances) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -273,6 +275,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |

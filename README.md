@@ -308,6 +308,7 @@ This project is licensed under the **MIT License**.
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [0796-rotate-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -341,6 +342,7 @@ This project is licensed under the **MIT License**.
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [2751-robot-collisions](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
 |  |

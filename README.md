@@ -344,6 +344,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0071-simplify-path) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2751-robot-collisions](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -362,6 +363,7 @@ This project is licensed under the **MIT License**.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +371,7 @@ This project is licensed under the **MIT License**.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1306-jump-game-iii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -389,6 +392,7 @@ This project is licensed under the **MIT License**.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |

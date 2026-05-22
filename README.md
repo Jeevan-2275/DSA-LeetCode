@@ -182,6 +182,7 @@ This project is licensed under the **MIT License**.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0120-triangle) |
@@ -404,6 +405,7 @@ This project is licensed under the **MIT License**.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2540-minimum-common-value) |

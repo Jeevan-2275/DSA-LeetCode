@@ -184,6 +184,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -238,6 +239,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1861-rotating-the-box) |
@@ -420,6 +422,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2540-minimum-common-value) |

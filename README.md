@@ -182,6 +182,7 @@ This project is licensed under the **MIT License**.
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -236,6 +237,7 @@ This project is licensed under the **MIT License**.
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |

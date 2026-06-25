@@ -234,6 +234,7 @@ This project is licensed under the **MIT License**.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3660-jump-game-ix) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
@@ -312,6 +313,7 @@ This project is licensed under the **MIT License**.
 | [2615-sum-of-distances](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2615-sum-of-distances) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -330,6 +332,7 @@ This project is licensed under the **MIT License**.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
@@ -423,6 +426,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -490,6 +494,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -507,4 +512,12 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->

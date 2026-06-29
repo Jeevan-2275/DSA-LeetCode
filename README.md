@@ -206,6 +206,7 @@ This project is licensed under the **MIT License**.
 | [1861-rotating-the-box](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2126-destroying-asteroids) |
@@ -376,6 +377,7 @@ This project is licensed under the **MIT License**.
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1871-jump-game-vii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2573-find-the-string-with-lcp) |

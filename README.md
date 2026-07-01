@@ -223,6 +223,7 @@ This project is licensed under the **MIT License**.
 | [2751-robot-collisions](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -267,6 +268,7 @@ This project is licensed under the **MIT License**.
 | [1914-cyclically-rotating-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -409,6 +411,7 @@ This project is licensed under the **MIT License**.
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -472,6 +475,7 @@ This project is licensed under the **MIT License**.
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
 | [1306-jump-game-iii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -490,6 +494,7 @@ This project is licensed under the **MIT License**.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Trie
@@ -528,4 +533,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->

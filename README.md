@@ -344,6 +344,7 @@ This project is licensed under the **MIT License**.
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -516,6 +517,7 @@ This project is licensed under the **MIT License**.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0089-gray-code) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sliding Window

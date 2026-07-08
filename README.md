@@ -376,6 +376,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0443-string-compression](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0443-string-compression) |

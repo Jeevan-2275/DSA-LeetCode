@@ -227,6 +227,7 @@ This project is licensed under the **MIT License**.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -337,6 +338,7 @@ This project is licensed under the **MIT License**.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -417,6 +419,7 @@ This project is licensed under the **MIT License**.
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String Matching
 |  |
 | ------- |
@@ -501,6 +504,7 @@ This project is licensed under the **MIT License**.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Trie
@@ -548,4 +552,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->

@@ -298,6 +298,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -356,6 +357,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
@@ -563,4 +565,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

@@ -245,6 +245,7 @@ This project is licensed under the **MIT License**.
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -261,6 +262,7 @@ This project is licensed under the **MIT License**.
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -295,6 +297,7 @@ This project is licensed under the **MIT License**.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -372,6 +375,7 @@ This project is licensed under the **MIT License**.
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -384,6 +388,7 @@ This project is licensed under the **MIT License**.
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -533,6 +538,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |

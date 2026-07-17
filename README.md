@@ -361,6 +361,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0089-gray-code) |
@@ -379,6 +380,7 @@ This project is licensed under the **MIT License**.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -395,6 +397,7 @@ This project is licensed under the **MIT License**.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0443-string-compression](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0443-string-compression) |

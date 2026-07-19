@@ -404,6 +404,7 @@ This project is licensed under the **MIT License**.
 | [0168-excel-sheet-column-title](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0443-string-compression](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0796-rotate-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1871-jump-game-vii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1871-jump-game-vii) |
@@ -424,6 +425,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -459,6 +461,7 @@ This project is licensed under the **MIT License**.
 | [0071-simplify-path](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
@@ -584,4 +587,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0062-unique-paths) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

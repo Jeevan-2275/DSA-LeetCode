@@ -342,6 +342,7 @@ This project is licensed under the **MIT License**.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -406,6 +407,7 @@ This project is licensed under the **MIT License**.
 | [0043-multiply-strings](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -562,6 +564,7 @@ This project is licensed under the **MIT License**.
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1871-jump-game-vii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1871-jump-game-vii) |
 ## Counting Sort

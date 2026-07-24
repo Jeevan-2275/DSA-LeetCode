@@ -233,6 +233,7 @@ This project is licensed under the **MIT License**.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -323,6 +324,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [1291-sequential-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -380,6 +382,7 @@ This project is licensed under the **MIT License**.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -564,6 +567,7 @@ This project is licensed under the **MIT License**.
 | [0089-gray-code](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0089-gray-code) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sliding Window
 |  |
 | ------- |

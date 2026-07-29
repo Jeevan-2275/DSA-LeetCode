@@ -193,6 +193,7 @@ This project is licensed under the **MIT License**.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1260-shift-2d-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
@@ -352,6 +353,7 @@ This project is licensed under the **MIT License**.
 | [0036-valid-sudoku](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -422,6 +424,7 @@ This project is licensed under the **MIT License**.
 | [0168-excel-sheet-column-title](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0443-string-compression) |
+| [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |

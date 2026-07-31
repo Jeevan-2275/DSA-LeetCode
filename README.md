@@ -304,6 +304,7 @@ This project is licensed under the **MIT License**.
 | [2751-robot-collisions](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -364,6 +365,7 @@ This project is licensed under the **MIT License**.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -439,6 +441,7 @@ This project is licensed under the **MIT License**.
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -459,6 +462,7 @@ This project is licensed under the **MIT License**.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -568,6 +572,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
 |  |

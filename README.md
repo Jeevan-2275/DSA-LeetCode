@@ -192,6 +192,7 @@ This project is licensed under the **MIT License**.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -320,6 +321,7 @@ This project is licensed under the **MIT License**.
 | [0120-triangle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0788-rotated-digits) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1871-jump-game-vii) |
@@ -385,6 +387,7 @@ This project is licensed under the **MIT License**.
 | [0089-gray-code](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -616,6 +619,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 ## Graph Theory
 |  |
 | ------- |
@@ -628,4 +632,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

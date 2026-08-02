@@ -196,6 +196,7 @@ This project is licensed under the **MIT License**.
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1260-shift-2d-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1306-jump-game-iii) |
@@ -323,6 +324,7 @@ This project is licensed under the **MIT License**.
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1871-jump-game-vii) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -390,6 +392,7 @@ This project is licensed under the **MIT License**.
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -636,4 +639,5 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

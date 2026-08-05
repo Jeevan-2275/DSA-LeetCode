@@ -538,6 +538,7 @@ This project is licensed under the **MIT License**.
 | [1306-jump-game-iii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3310-remove-methods-from-project](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -548,6 +549,7 @@ This project is licensed under the **MIT License**.
 | [1306-jump-game-iii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -628,6 +630,7 @@ This project is licensed under the **MIT License**.
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Combinatorics
 |  |

@@ -236,6 +236,7 @@ This project is licensed under the **MIT License**.
 | [2784-check-if-array-is-good](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -308,6 +309,7 @@ This project is licensed under the **MIT License**.
 | [2751-robot-collisions](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -372,6 +374,7 @@ This project is licensed under the **MIT License**.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |

@@ -352,6 +352,7 @@ This project is licensed under the **MIT License**.
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Prefix Sum
 |  |
@@ -393,6 +394,7 @@ This project is licensed under the **MIT License**.
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -476,6 +478,7 @@ This project is licensed under the **MIT License**.
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
@@ -496,6 +499,7 @@ This project is licensed under the **MIT License**.
 | [3474-lexicographically-smallest-generated-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Union-Find
 |  |
 | ------- |
@@ -607,6 +611,7 @@ This project is licensed under the **MIT License**.
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
 |  |

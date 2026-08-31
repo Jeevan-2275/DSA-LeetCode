@@ -187,6 +187,7 @@ This project is licensed under the **MIT License**.
 | [0036-valid-sudoku](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0120-triangle) |
@@ -307,6 +308,7 @@ This project is licensed under the **MIT License**.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1331-rank-transform-of-an-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -373,6 +375,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
@@ -454,6 +457,7 @@ This project is licensed under the **MIT License**.
 | [0022-generate-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0171-excel-sheet-column-number) |

@@ -553,6 +553,7 @@ This project is licensed under the **MIT License**.
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -565,6 +566,7 @@ This project is licensed under the **MIT License**.
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -575,6 +577,7 @@ This project is licensed under the **MIT License**.
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1306-jump-game-iii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1306-jump-game-iii) |
+| [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3310-remove-methods-from-project](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -599,6 +602,7 @@ This project is licensed under the **MIT License**.
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |

@@ -195,6 +195,7 @@ This project is licensed under the **MIT License**.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
+| [0525-contiguous-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -362,6 +363,7 @@ This project is licensed under the **MIT License**.
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1871-jump-game-vii) |
@@ -378,6 +380,7 @@ This project is licensed under the **MIT License**.
 | [0049-group-anagrams](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |

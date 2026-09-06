@@ -576,6 +576,7 @@ This project is licensed under the **MIT License**.
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
@@ -589,6 +590,7 @@ This project is licensed under the **MIT License**.
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1306-jump-game-iii) |
@@ -623,6 +625,7 @@ This project is licensed under the **MIT License**.
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
@@ -717,4 +720,12 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0877-stone-game) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->

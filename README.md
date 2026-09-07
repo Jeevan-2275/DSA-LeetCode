@@ -578,6 +578,7 @@ This project is licensed under the **MIT License**.
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -592,6 +593,7 @@ This project is licensed under the **MIT License**.
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1306-jump-game-iii) |
 | [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
@@ -608,6 +610,7 @@ This project is licensed under the **MIT License**.
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1306-jump-game-iii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -627,6 +630,7 @@ This project is licensed under the **MIT License**.
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search

@@ -562,6 +562,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0061-rotate-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -576,6 +577,7 @@ This project is licensed under the **MIT License**.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
@@ -592,6 +594,7 @@ This project is licensed under the **MIT License**.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
@@ -612,6 +615,7 @@ This project is licensed under the **MIT License**.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -630,6 +634,7 @@ This project is licensed under the **MIT License**.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0226-invert-binary-tree) |

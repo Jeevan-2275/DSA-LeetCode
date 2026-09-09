@@ -192,6 +192,7 @@ This project is licensed under the **MIT License**.
 | [0119-pascals-triangle-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
@@ -342,6 +343,7 @@ This project is licensed under the **MIT License**.
 | [0119-pascals-triangle-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0788-rotated-digits) |

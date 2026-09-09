@@ -442,6 +442,7 @@ This project is licensed under the **MIT License**.
 | [3783-mirror-distance-of-an-integer](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Simulation
 |  |
 | ------- |

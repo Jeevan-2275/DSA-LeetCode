@@ -589,6 +589,7 @@ This project is licensed under the **MIT License**.
 | [0662-maximum-width-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -609,6 +610,7 @@ This project is licensed under the **MIT License**.
 | [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -646,6 +648,7 @@ This project is licensed under the **MIT License**.
 | [0662-maximum-width-of-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1367-linked-list-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
 | ------- |

@@ -251,6 +251,7 @@ This project is licensed under the **MIT License**.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -360,6 +361,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -407,6 +409,7 @@ This project is licensed under the **MIT License**.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -724,6 +727,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Graph Theory
 |  |
 | ------- |

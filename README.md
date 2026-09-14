@@ -434,6 +434,7 @@ This project is licensed under the **MIT License**.
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -763,4 +764,8 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

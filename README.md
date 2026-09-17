@@ -198,6 +198,7 @@ This project is licensed under the **MIT License**.
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
 | [0835-image-overlap](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
@@ -319,6 +320,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0049-group-anagrams](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1331-rank-transform-of-an-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

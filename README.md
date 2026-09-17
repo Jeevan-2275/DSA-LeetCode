@@ -207,6 +207,7 @@ This project is licensed under the **MIT License**.
 | [0904-fruit-into-baskets](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1052-grumpy-bookstore-owner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [1122-relative-sort-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -322,6 +323,7 @@ This project is licensed under the **MIT License**.
 | [0628-maximum-product-of-three-numbers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1122-relative-sort-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -400,6 +402,7 @@ This project is licensed under the **MIT License**.
 | [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1122-relative-sort-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -721,6 +724,7 @@ This project is licensed under the **MIT License**.
 ## Counting Sort
 |  |
 | ------- |
+| [1122-relative-sort-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1122-relative-sort-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Segment Tree
@@ -777,4 +781,12 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->

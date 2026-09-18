@@ -214,6 +214,7 @@ This project is licensed under the **MIT License**.
 | [1386-cinema-seat-allocation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -356,6 +357,7 @@ This project is licensed under the **MIT License**.
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1871-jump-game-vii) |
@@ -406,6 +408,7 @@ This project is licensed under the **MIT License**.
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2615-sum-of-distances) |
@@ -677,6 +680,7 @@ This project is licensed under the **MIT License**.
 | [0074-search-a-2d-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -718,6 +722,7 @@ This project is licensed under the **MIT License**.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

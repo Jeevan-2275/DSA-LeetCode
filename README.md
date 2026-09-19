@@ -447,6 +447,7 @@ This project is licensed under the **MIT License**.
 | [0836-rectangle-overlap](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -786,6 +787,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quicksort
 |  |
 | ------- |

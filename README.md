@@ -281,6 +281,7 @@ This project is licensed under the **MIT License**.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
@@ -587,6 +588,7 @@ This project is licensed under the **MIT License**.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |

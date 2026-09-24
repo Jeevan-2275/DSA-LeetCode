@@ -188,6 +188,7 @@ This project is licensed under the **MIT License**.
 | [0046-permutations](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0119-pascals-triangle-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0120-triangle) |
@@ -303,6 +304,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0835-image-overlap](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
@@ -475,6 +477,7 @@ This project is licensed under the **MIT License**.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0874-walking-robot-simulation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1914-cyclically-rotating-a-grid) |

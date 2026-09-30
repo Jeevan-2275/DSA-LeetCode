@@ -513,6 +513,7 @@ This project is licensed under the **MIT License**.
 | [0748-shortest-completing-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -592,6 +593,7 @@ This project is licensed under the **MIT License**.
 | [0144-binary-tree-preorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -828,6 +830,7 @@ This project is licensed under the **MIT License**.
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

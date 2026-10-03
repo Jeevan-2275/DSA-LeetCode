@@ -195,6 +195,7 @@ This project is licensed under the **MIT License**.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0396-rotate-function](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0525-contiguous-array) |
@@ -289,6 +290,7 @@ This project is licensed under the **MIT License**.
 | [0031-next-permutation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0443-string-compression) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1861-rotating-the-box) |
@@ -711,6 +713,7 @@ This project is licensed under the **MIT License**.
 | [0033-search-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -745,6 +748,7 @@ This project is licensed under the **MIT License**.
 | ------- |
 | [0029-divide-two-integers](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0089-gray-code) |
+| [0287-find-the-duplicate-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -837,4 +841,12 @@ This project is licensed under the **MIT License**.
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

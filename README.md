@@ -546,6 +546,7 @@ This project is licensed under the **MIT License**.
 | [3612-process-string-with-special-operations-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3838-weighted-word-mapping](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |

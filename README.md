@@ -466,6 +466,7 @@ This project is licensed under the **MIT License**.
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2409-count-days-spent-together](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -527,6 +528,7 @@ This project is licensed under the **MIT License**.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1871-jump-game-vii](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2409-count-days-spent-together](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Jeevan-2275/DSA-LeetCode/tree/master/2573-find-the-string-with-lcp) |
